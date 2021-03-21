@@ -1,0 +1,24 @@
+.contenido-convocatoria{
+    margin-top: 7rem;
+}
+
+.convocatoria-texto{
+    border-radius: 5px;
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-bottom: 2rem;
+}
+
+.texto-1{
+    margin-top: 2rem;
+    font-weight: lighter;
+    text-align: justify;
+    padding-bottom: 2rem;
+
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+}
