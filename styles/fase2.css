@@ -1,171 +1,202 @@
-.card-title{
-    font-size: 0.65rem;
-    color: rgb(196, 27, 27);
+.card-title {
+  font-size: 0.65rem;
+  color: rgb(196, 27, 27);
 }
 
-.card-text{
-    font-size: 0.8rem;
-    color: gray;
+.card-text {
+  font-size: 0.8rem;
+  color: gray;
 }
 
-.speaker-col{
-    display: flex;
-    justify-content: center;
+.speaker-col {
+  display: flex;
+  justify-content: center;
 }
 
-.flag-usa{
-    width: 3rem;
+.flag-usa {
+  width: 3rem;
 }
 
-.flag-colombia{
-    width: 3rem;
+.flag-colombia {
+  width: 3rem;
 }
 
-.flag-argentina{
-    width: 3rem;
+.flag-argentina {
+  width: 3rem;
 }
 
-.flag-ecuador{
-    width: 3rem;
+.flag-ecuador {
+  width: 3rem;
 }
 
-.flag-sweden{
-    width: 3rem;
+.flag-sweden {
+  width: 3rem;
 }
 
-.flag-finlandia{
-    width: 3rem;
+.flag-finlandia {
+  width: 3rem;
 }
 
-.flag-brazil{
-    width: 3rem;
+.flag-brazil {
+  width: 3rem;
 }
 
-.flag-bolivia{
-    width: 3rem;
+.flag-bolivia {
+  width: 3rem;
 }
 
-
-.card-left{
-   text-align: right; 
+.card-left {
+  text-align: right;
 }
 
-.tabla th{
-
-    font-size: 0.7rem;
-    text-align: center;
+.tabla th {
+  font-size: 0.7rem;
+  text-align: center;
 }
 
-.tabla td{
-    font-size: 0.7rem;
-    text-align: center;
+.tabla td {
+  font-size: 0.7rem;
+  text-align: center;
 }
 
-.item-opening{
-    background: #00897B;
+.item-opening {
+  background: #0c8375;
 }
 
-.alert-1{
-    display: flex;
-    justify-content: center;
-    font-size: 0.7rem;
-    background: #00897B;
-    color: white;
+.item-opening-2 {
+  background: #38bbac;
 }
 
-.item-industrial{
-    background: #F9A825;
+.alert-1 {
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+  background: #00897b;
+  color: white;
 }
 
-.alert-2{
-    display: flex;
-    justify-content: center;
-    font-size: 0.7rem;
-    background: #F9A825;
-    color: white;
+.item-industrial {
+  background: #f9a825;
 }
 
-.item-ambiental{
-    background: #FF5722;
+.alert-2 {
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+  background: #f9a825;
+  color: white;
 }
 
-.alert-3{
-    display: flex;
-    justify-content: center;
-    font-size: 0.7rem;
-    background: #FF5722;
-    color: white;
+.item-ambiental {
+  background: #ff5722;
 }
 
-.item-medica{
-    background: #00B8D4;
+.alert-3 {
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+  background: #ff5722;
+  color: white;
 }
 
-.alert-4{
-    display: flex;
-    justify-content: center;
-    font-size: 0.7rem;
-    background: #00B8D4;
-    color: white;
+.item-medica {
+  background: #00b8d4;
 }
 
-.item-vegetal{
-    background: #C0CA33;
+.alert-4 {
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+  background: #00b8d4;
+  color: white;
 }
 
-.alert-5{
-    display: flex;
-    justify-content: center;
-    font-size: 0.7rem;
-    background: #C0CA33;
-    color: white;
+.item-vegetal {
+  background: #c0ca33;
 }
 
-.item-normativa{
-    background: #F9A825;
+.alert-5 {
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+  background: #c0ca33;
+  color: white;
 }
 
-.alert-6{
-    display: flex;
-    justify-content: center;
-    font-size: 0.7rem;
-    background: #F9A825;
-    color: white;
+.item-normativa {
+  background: #f9a825;
 }
 
-.item-cancer{
-    background: #546E7A;
+.alert-6 {
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+  background: #f9a825;
+  color: white;
 }
 
-.alert-7{
-    display: flex;
-    justify-content: center;
-    font-size: 0.7rem;
-    background: #546E7A;
-    color: white;
+.item-cancer {
+  background: #546e7a;
 }
 
-
-.contenido-titulo-programa{
-    display: flex;
-    justify-content: center;
-    font-size: 3rem;
-    font-weight: lighter;
+.alert-7 {
+  display: flex;
+  justify-content: center;
+  font-size: 0.7rem;
+  background: #546e7a;
+  color: white;
 }
 
-.contenido-1-programa{
-    background: rgba(189, 203, 204, 0.13);
-    margin-top: 2rem;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    color: white;   
+.contenido-titulo-programa {
+  display: flex;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 400;
 }
 
-.contenido-3-programa{
-    background: whitesmoke;
-    padding-top: 2px;
-    text-align: justify;
-    font-size: 1.2rem;
-    font-weight: lighter;
-    padding-bottom: 2rem;
+.contenido-1-programa {
+  background: rgba(189, 203, 204, 0.13);
+  margin-top: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  color: white;
+}
+
+.contenido-3-programa {
+  background: whitesmoke;
+  padding-top: 2px;
+  text-align: justify;
+  font-size: 1.2rem;
+  font-weight: lighter;
+  padding-bottom: 2rem;
+}
+
+.table-description-1 {
+  background: #0c8375;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  color: white;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.table-description-2 {
+  background: #38bbac;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  color: white;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.table-description-3 {
+  background: #ff5722;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  color: white;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 400;
 }
